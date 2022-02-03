@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 ## ⚙ Commands Running locally Server
 - yarn server
 
-## ⚙ Documentatios
+## ⚙ Documentation
 - <a href=".github/Documentation.pdf">PDF</a>
 - [RocketSeat](https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c)
 <br>
