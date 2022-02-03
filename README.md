@@ -30,6 +30,7 @@ This project was developed with the following technologies:
 <br>
 
 ## ⚙ Commands Running locally Client
+- yarn
 - yarn start
 
 ## ⚙ Commands Running locally Server
